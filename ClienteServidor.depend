@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1724721413 source:c:\users\ana_m\desktop\sistemas\2024\segundo cuatri\desarrollo de software en sistemas distribuidos\sockets\clienteservidor\clienteservidor\cliente.c
+	<stdio.h>
+	<winsock2.h>
+	<string.h>
+	<stdlib.h>
+
+1724721289 source:c:\users\ana_m\desktop\sistemas\2024\segundo cuatri\desarrollo de software en sistemas distribuidos\sockets\clienteservidor\clienteservidor\servidor.c
+	<stdio.h>
+	<winsock2.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1724721289 source:c:\users\ana_m\desktop\sistemas\2024\segundo cuatri\desarrollo de software en sistemas distribuidos\sockets\clienteservidor\servidor.c
+	<stdio.h>
+	<winsock2.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
